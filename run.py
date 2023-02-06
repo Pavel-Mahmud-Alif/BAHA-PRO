@@ -1,12 +1,25 @@
-import os, sys, platform
+import os, platform
+
 try:
+
     import requests
+
 except:
+
     os.system('pip install requests')
-os.system('xdg-open https://www.facebook.com/SH1N50')
+
+import requests
 
 bit = platform.architecture()[0]
+
 if bit == '64bit':
-    import BAHA
+
+    from BAHA import ALEX
+
+    ALEX()
+
 elif bit == '32bit':
-    print('w8 for update')
+
+    from MAANII32 import Main
+
+    Main()
