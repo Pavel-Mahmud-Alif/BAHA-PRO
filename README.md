@@ -38,5 +38,4 @@ Note: (This Tools Are Free, So You No Need Permission To Use BAHA-PRO Tools Enjo
 
 ```
 
-[![Facebook](https://img.shields.io/badge/Facebook-MD. BAHA UDDIN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/SH1N50)</br>
 [CODED BY MD. BAHA UDDIN]
