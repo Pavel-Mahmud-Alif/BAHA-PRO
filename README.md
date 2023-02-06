@@ -1,7 +1,5 @@
 # FILE_CRACK
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Pavel-Mahmud-Alif-dimgray?style=flat-square&logo=github)](https://github.com/Pavel-Mahmud-Alif)<br> [![Facebook](https://img.shields.io/badge/Facebook-MD. BAHA UDDIN?style=flat-square&logo=facebook)](https://www.facebook.com/SH1N50)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-BAHA UDDIN?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/01315671747)
-
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
 <h2 align="center"> ADMIN : MD. BAHA UDDIN</h2>
