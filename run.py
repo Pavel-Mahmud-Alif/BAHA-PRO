@@ -14,12 +14,10 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from BAHA import ALEX
+    from BAHA import FUCK
 
-    ALEX()
+    FUCK()
 
 elif bit == '32bit':
 
-    from MAANII32 import Main
-
-    Main()
+    print('W8 for next update')
