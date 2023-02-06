@@ -19,6 +19,8 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install rich
 $ pkg install git
+$ pip uninstall requests chardet urllib3 idna certifi -y
+$ pip install chardet urllib3 idna certifi requests
 $ rm -rf BAHA-PRO
 $ git clone https://github.com/Pavel-Mahmud-Alif/BAHA-PRO
 $ cd BAHA-PRO
