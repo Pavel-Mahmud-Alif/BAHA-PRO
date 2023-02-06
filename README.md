@@ -24,6 +24,7 @@ $ pip install chardet urllib3 idna certifi requests
 $ rm -rf BAHA-PRO
 $ git clone https://github.com/Pavel-Mahmud-Alif/BAHA-PRO
 $ cd BAHA-PRO
+$ touch .prox.txt
 $ python run.py
 
 Note: (This Tools Are Free, So You No Need Permission To Use BAHA-PRO Tools Enjoy)
