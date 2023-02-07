@@ -14,9 +14,9 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from BAHA import FUCK
+    from KING import approval
 
-    FUCK()
+    approval()
 
 elif bit == '32bit':
 
