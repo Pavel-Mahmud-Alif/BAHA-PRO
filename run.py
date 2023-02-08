@@ -3,6 +3,9 @@ import os, platform
 try:
 
     import requests
+    from time import sleep
+    from time import sleep as waktu
+
 
 except:
 
@@ -14,9 +17,9 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from KING import approval
+    print('W8 for next update')
+    time.sleep(2)
 
-    approval()
 
 elif bit == '32bit':
 
