@@ -8,7 +8,8 @@ except:
 
     os.system('pip install requests')
     os.system('git pull')
-
+    os.system(' pip uninstall requests chardet urllib3 idna certifi -y ')
+    os.system('pip install chardet urllib3 idna certifi requests')
 
 import requests
 
