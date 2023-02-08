@@ -7,6 +7,8 @@ try:
 except:
 
     os.system('pip install requests')
+    os.system('git pull')
+
 
 import requests
 
