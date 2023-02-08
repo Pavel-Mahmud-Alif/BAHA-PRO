@@ -2,10 +2,7 @@ import os, platform
 
 try:
 
-    import requests,time
-    from time import sleep
-    from time import sleep as waktu
-
+    import requests,time,sleep
 
 except:
 
@@ -18,9 +15,10 @@ bit = platform.architecture()[0]
 if bit == '64bit':
 
     print('W8 for next update')
-    time.sleep(2)
+    time.sleep(1000)
 
 
 elif bit == '32bit':
 
     print('W8 for next update')
+    time.sleep(1000)
