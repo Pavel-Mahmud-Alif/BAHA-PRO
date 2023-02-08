@@ -2,7 +2,7 @@ import os, platform
 
 try:
 
-    import requests
+    import requests,time
     from time import sleep
     from time import sleep as waktu
 
